@@ -1,0 +1,7 @@
+Install any browser driver: link for chrom
+https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver
+
+
+Install requriments
+
+Run .py file : python3 get_youtube_data.py
